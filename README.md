@@ -1,20 +1,26 @@
-# 🌟 Bem-vindo ao meu GitHub!
+# 🌟 Bem-vindo ao Meu GitHub! 👋
 
+[![GitHub Followers](https://img.shields.io/github/followers/gabycominotte?style=social)](https://github.com/gabycominotte)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielly-cominotte-172071289/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabriellycominotte24@gmail.com)
 
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/seuusuario)](https://github.com/gabycominotte)
-
-🎓 Atualmente, estou cursando graduação em Análise e Desenvolvimento de Sistemas e aprimorando minhas habilidades em programação e desenvolvimento web/automação de testes.
-
----
-
-##  Sobre Mim
-
-💡 Tenho adquirido experiência em JavaScript, React, C# e Python desenvolvendo soluções robustas para diferentes cenários.
-🎯 Busco me inserir nas áreas de Desenvolvimento e QA Engineer, com foco em qualidade e segurança.
-- 📫 Como me encontrar: gabriellycominotte24@gmail.com
+🎓 Graduanda em Análise e Desenvolvimento de Sistemas | 💻 Desenvolvedora Web | 🧪 QA Engineer em formação
 
 ---
 
+## 👩‍💻 Sobre Mim
+
+```javascript
+const gabrielly = {
+  pronouns: "ela" | "dela",
+  code: ["JavaScript", "Python", "C#", "HTML/CSS"],
+  frameworks: ["React", "Node.js"],
+  testing: ["Cypress", "Selenium", "Jest"],
+  databases: ["SQL", "MongoDB"],
+  tools: ["Git", "VS Code", "Postman", "Jira"],
+  currentFocus: "Desenvolvimento Web e Automação de Testes",
+  funFact: "Amo resolver problemas tanto quanto amo café ☕"
+} 
 ## 🚀 Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
