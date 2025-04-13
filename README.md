@@ -1,24 +1,19 @@
-# 🌟 Bem-vindo ao Meu GitHub! 👋
+# 🌟 Bem-vindo(a) ao meu GitHub!
 
-[![GitHub Followers](https://img.shields.io/github/followers/gabycominotte?style=social)](https://github.com/gabycominotte)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielly-cominotte-172071289/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabriellycominotte24@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-GitHub-232323?style=flat-square&logo=github&logoColor=white)](https://github.com/gabycominotte)
 
-🎓 Graduanda em Análise e Desenvolvimento de Sistemas | 💻 Desenvolvedora Web | 🧪 QA Engineer em formação
+🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas**, e estou sempre buscando aprimorar minhas habilidades em **programação**, **desenvolvimento web** e **automação de testes**.
 
 ---
 
-## 👩‍💻 Sobre Mim
+## 👩‍💻 Sobre mim
 
-  const gabrielly = {
-  pronouns: "ela" | "dela",
-  code: ["JavaScript", "Python", "C#", "HTML/CSS"],
-  frameworks: ["React", "Node.js"],
-  testing: ["Cypress", "Selenium", "Jest"],
-  databases: ["SQL", "MongoDB"],
-  tools: ["Git", "VS Code", "Postman", "Jira"],
-  currentFocus: "Desenvolvimento Web e Automação de Testes",
-  funFact: "Amo resolver problemas tanto quanto amo café ☕"
+💡 Tenho experiência com **JavaScript**, **React**, **C#** e **Python**, desenvolvendo soluções robustas e escaláveis.  
+🎯 Meu foco está nas áreas de **Desenvolvimento** e **Qualidade de Software (QA Engineer)**, com ênfase em qualidade, desempenho e segurança.
+
+📫 **E-mail para contato:** gabriellycominotte24@gmail.com
+
+---
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -32,23 +27,25 @@
 
 ---
 
-# Projetos em destaque
-Aqui você encontrará projetos que desenvolvi para aprimorar minhas habilidades e colocar em prática o que estou aprendendo. Fique à vontade para explorar e compartilhar feedback! 😊
+## 🌟 Projetos em destaque
+
+Aqui você encontrará alguns projetos que desenvolvi para colocar em prática meus conhecimentos e evoluir como profissional.  
+Fique à vontade para explorar, deixar uma ⭐ ou enviar um feedback — será muito bem-vindo(a)! 😊
 
 ---
 
-# 📚 Em constante evolução
-Estou sempre buscando novas formas de aprender e me desafiar. Se você quiser trocar ideias ou colaborar em algum projeto, não hesite em entrar em contato!
+## 📚 Em constante evolução
 
-📬 Conecte-se comigo
+Estou sempre em busca de novos desafios e aprendizados.  
+Se quiser trocar ideias, colaborar ou apenas bater um papo sobre tecnologia, será um prazer!
+
+---
+
+## 📬 Conecte-se comigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrielly-cominotte-172071289/)
-
-- 📧 [Email](gabriellycominotte24@gmail.com)
----
-
-
+- 📧 [E-mail](mailto:gabriellycominotte24@gmail.com)
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seuusuario.seuusuario)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gabycominotte.gabycominotte)
