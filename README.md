@@ -1,4 +1,6 @@
+
 # 🌟 Bem-vindo(a) ao meu GitHub!
+
 
 [![Github Badge](https://img.shields.io/badge/-GitHub-232323?style=flat-square&logo=github&logoColor=white)](https://github.com/gabycominotte)
 
@@ -47,5 +49,22 @@ Se quiser trocar ideias, colaborar ou apenas bater um papo sobre tecnologia, ser
 - 📧 [E-mail](mailto:gabriellycominotte24@gmail.com)
 
 ---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabycominotte&show_icons=true&theme=rose_pine&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabycominotte&layout=compact&theme=rose_pine" />
+</div>
+
+---
+
+## 🏆 Conquistas no GitHub
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=gabycominotte&theme=apprentice&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gabycominotte.gabycominotte)
