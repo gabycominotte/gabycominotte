@@ -10,8 +10,7 @@
 
 ## 👩‍💻 Sobre Mim
 
-```javascript
-const gabrielly = {
+  const gabrielly = {
   pronouns: "ela" | "dela",
   code: ["JavaScript", "Python", "C#", "HTML/CSS"],
   frameworks: ["React", "Node.js"],
@@ -20,7 +19,7 @@ const gabrielly = {
   tools: ["Git", "VS Code", "Postman", "Jira"],
   currentFocus: "Desenvolvimento Web e Automação de Testes",
   funFact: "Amo resolver problemas tanto quanto amo café ☕"
-} 
+
 ## 🚀 Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
